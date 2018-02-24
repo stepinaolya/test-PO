@@ -1,0 +1,101 @@
+<object>
+02
+  <property>
+03
+    <key>orderID</key>
+04
+    <number>12345</number>
+05
+  </property>
+06
+  <property>
+07
+    <key>shopperName</key>
+08
+    <string>Ваня Иванов</string>
+09
+  </property>
+10
+  <property>
+11
+    <key>shopperEmail</key>
+12
+    <string>ivanov@example.com</string>
+13
+  </property>
+14
+  <property>
+15
+    <key>contents</key>
+16
+    <array>
+17
+      <object>
+18
+        <property>
+19
+          <key>productID</key>
+20
+          <number>34</number>
+21
+        </property>
+22
+        <property>
+23
+          <key>productName</key>
+24
+          <string>Супер товар</string>
+25
+        </property>
+26
+        <property>
+27
+          <key>quantity</key>
+28
+          <number>1</number>
+29
+        </property>      
+30
+      </object>
+31
+      <object>
+32
+        <property>
+33
+          <key>productID</key>
+34
+          <number>56</number>
+35
+        </property>
+36
+        <property>
+37
+          <key>productName</key>
+38
+          <string>Чудо товар</string>
+39
+        </property>
+40
+        <property>
+41
+          <key>quantity</key>
+42
+          <number>3</number>
+43
+        </property>
+44
+      </object>
+45
+    </array>
+46
+  </property>
+47
+  <property>
+48
+    <key>orderCompleted</key>
+49
+    <boolean>true</boolean>
+50
+  </property>
+51
+</object>
