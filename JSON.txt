@@ -1,0 +1,35 @@
+{
+02
+  "orderID": 12345,
+03
+  "shopperName": "Ваня Иванов",
+04
+  "shopperEmail": "ivanov@example.com",
+05
+  "contents": [
+06
+    {
+07
+      "productID": 34,
+08
+      "productName": "Супер товар",
+09
+      "quantity": 1
+10
+    },
+11
+    {
+12
+      "productID": 56,
+13
+      "productName": "Чудо товар",
+14
+      "quantity": 3
+15
+    }
+16
+  ],
+17
+  "orderCompleted": true
+18
+}
